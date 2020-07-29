@@ -1,0 +1,3 @@
+command to run bhalapp : npm run start:dev
+command to run formapp : npm start
+
