@@ -1,8 +1,7 @@
 # MERN-project
 
-I have uploaded Two apps 
 
-1. bhalapp: 
+bhalapp
 
 Command to run App : 
 
